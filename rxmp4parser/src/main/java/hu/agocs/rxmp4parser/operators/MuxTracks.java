@@ -2,9 +2,7 @@ package hu.agocs.rxmp4parser.operators;
 
 import org.mp4parser.muxer.Movie;
 import org.mp4parser.muxer.Track;
-import org.mp4parser.muxer.tracks.AppendTrack;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 

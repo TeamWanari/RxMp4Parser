@@ -3,6 +3,16 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../Video/app/build.gradle">
           <value>
             <set />
@@ -14,6 +24,96 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../Video/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/model/ContentManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/model/exception/GeneralApiException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/presenter/FocusedViewPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/presenter/LoginPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/presenter/PeriodSelectorPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/presenter/ReportCentralPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/presenter/ReportTeamListPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/presenter/SegmentPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/view/FocusedViewFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/view/PeriodSelectorFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/view/ReportCentralFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/view/ReportTeamListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/view/SegmentFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/view/interfaces/IFocusedViewFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/view/interfaces/IPeriodSelector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/view/interfaces/IReportCentralFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/view/interfaces/IReportTeamListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myofficedroid/app/src/main/java/com/arbonne/mobileapps/mymobileoffice/view/interfaces/ISegmentFragment.java">
           <value>
             <set />
           </value>
@@ -38,6 +138,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/rxmp4parser/src/main/java/hu/agocs/rxmp4parser/COnstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rxmp4parser/src/main/java/hu/agocs/rxmp4parser/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/rxmp4parser/src/main/java/hu/agocs/rxmp4parser/RxMp4Parser.java">
           <value>
             <set />
@@ -58,7 +168,257 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/rxmp4parser/src/main/java/hu/agocs/rxmp4parser/filters/AudioTrackFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rxmp4parser/src/main/java/hu/agocs/rxmp4parser/filters/NullFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rxmp4parser/src/main/java/hu/agocs/rxmp4parser/filters/TrackFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rxmp4parser/src/main/java/hu/agocs/rxmp4parser/filters/VideoTrackFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rxmp4parser/src/main/java/hu/agocs/rxmp4parser/operators/AppendTracks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rxmp4parser/src/main/java/hu/agocs/rxmp4parser/operators/CropMovie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rxmp4parser/src/main/java/hu/agocs/rxmp4parser/operators/MuxTracks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/AttachmentComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/JobListAddressComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/JobListDeadlineComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/JobListEstimationComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/JobListFinishedDateComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/JobListHandOutDateComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/JobListImportanceComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/JobListNameComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/JobListTitleComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/NoteListAttachmentComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/NoteListDateComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/NoteListNameComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/NoteListTitleComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/comparators/NotificationListDateComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/model/rest/entity/ConfigSettings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/view/HomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/view/JobDetailFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/view/NotesBaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/view/adapter/NotesGridAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/view/drawing/DrawingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/view/interfaces/IHomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/java/com/wanari/scolvo/view/widgets/ScolvoHomeBaseDialogFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/res/layout/fragment_communicationsslidingcontainer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/res/layout/fragment_jobsslidingcontainer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scolvo-android-client/app/src/main/res/layout/fragment_notesbase.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../zinema-android/app/src/main/java/in/zinema/android/view/FeedEntryFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/model/AppConf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/model/ContentManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/model/WebSocketManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/model/entities/ClubsNoJson.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/model/entities/ClubsNoResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/model/entities/ClubsNoResponseJson.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/model/entities/Room.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/model/websocket/WebSocketConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/presenter/ClubsNoPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/view/ClubsNoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/view/adapter/RoomAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/view/entities/ClubsNoCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/java/hu/bme/agocs/kasandroid/view/interfaces/IClubsNoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/onlab/ElosztottJatekRendszer/android/mobile/src/main/res/layout/item_room.xml">
           <value>
             <set />
           </value>

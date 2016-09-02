@@ -13,6 +13,7 @@ import java.io.FileOutputStream;
 import java.io.InputStream;
 
 import hu.agocs.rxmp4parser.RxMp4Parser;
+import hu.agocs.rxmp4parser.operators.CropMovie;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Action1;
 import rx.schedulers.Schedulers;
@@ -46,15 +47,19 @@ public class MainActivity extends AppCompatActivity {
 
         File output = new File(Environment.getExternalStorageDirectory() + "/temp.mp4");
 
-        RxMp4Parser.concatenateInto(output,
-                //Full video
+        RxMp4Parser.concatenateInto(
+                //The output, where should be stored the resulting Movie object
+                output,
+                //A full video
                 RxMp4Parser.from(f),
                 //Cropped video
                 RxMp4Parser.crop(f, 8.5f, 13f),
                 //Cropped video
                 RxMp4Parser.crop(f.getAbsolutePath(), 5, 10),
                 //Another full video
-                RxMp4Parser.from(f.getAbsolutePath()))
+                RxMp4Parser.from(f.getAbsolutePath())
+                        .lift(new CropMovie(18f, 20f))
+        )
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new Action1<File>() {
@@ -70,7 +75,12 @@ public class MainActivity extends AppCompatActivity {
 
                                 @Override
                                 public void onScanCompleted(String path, Uri uri) {
-                                    Toast.makeText(MainActivity.this, "Scan complete", Toast.LENGTH_SHORT).show();
+                                    runOnUiThread(new Runnable() {
+                                        @Override
+                                        public void run() {
+                                            Toast.makeText(MainActivity.this, "Scan complete", Toast.LENGTH_SHORT).show();
+                                        }
+                                    });
                                 }
                             });
                         } else {

@@ -1,15 +1,9 @@
 package hu.agocs.rxmp4parser.filters;
 
-import org.mp4parser.muxer.Track;
+import hu.agocs.rxmp4parser.Constants;
 
-import rx.functions.Func1;
-
-public class VideoTrackFilter implements Func1<Track, Boolean> {
-
-    private static final String VIDEO_TRACK = "vide";
-
-    @Override
-    public Boolean call(Track track) {
-        return VIDEO_TRACK.equals(track.getHandler());
+public class VideoTrackFilter extends TrackFilter {
+    public VideoTrackFilter() {
+        super(Constants.VIDEO_TRACK);
     }
 }
